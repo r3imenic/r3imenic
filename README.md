@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming, games and technology
 - 🌱 I’m currently learning Python, HTML and English
 - 💞️ I’m looking to better my English and learning programming
-- 📫 How to reach me: reimenicdias@gmail.com
+- 📫 How to reach me: contator3imenic@gmail.com
 - ⚡ Fun fact: I'm Brazilian
 
 <!---
