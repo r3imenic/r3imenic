@@ -1,8 +1,8 @@
-- 👋 Hi, I’m r3imenic, but my real name is Arthur
+- 👋 Hi, I’m Arthur
 - 👀 I’m interested in programming, games and technology
-- 🌱 I’m currently learning Python, HTML and English
+- 🌱 I’m currently learning C, Java and English
 - 💞️ I’m looking to better my English and learning programming
-- 📫 How to reach me: contator3imenic@gmail.com
+- 📫 How to reach me: contatoarthurdias17@gmail.com
 - ⚡ Fun fact: I'm Brazilian
 
 <!---
